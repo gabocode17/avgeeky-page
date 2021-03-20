@@ -1,0 +1,25 @@
+.forumBackground {
+    background-color: gainsboro;
+    color: black;
+    margin-top: 2%;
+}
+.pagination-arrow {
+    color: gray;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+a {
+    color: #663399;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: #562e52;
+    font-weight: 500;
+    text-decoration: none;
+}
+.paginationBar {
+    padding: 10px;
+}
